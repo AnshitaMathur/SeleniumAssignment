@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="/home/knoldus/IdeaProjects/KEKA/src/test/java/KekaAttendance/TestConfig.java"><classes><class name="KekaAttendance.TestConfig"><methods><include name="KekaAttendence"/></methods></class></classes></test></suite>
